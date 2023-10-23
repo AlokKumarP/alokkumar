@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/alokkumar/static/css/main.11b2a97c.css",
+    "main.js": "/alokkumar/static/js/main.2162217e.js",
+    "static/js/787.1ed0c42c.chunk.js": "/alokkumar/static/js/787.1ed0c42c.chunk.js",
+    "static/media/about.jpg": "/alokkumar/static/media/about.7d3dd41404d9c4086789.jpg",
+    "static/media/profile.jpg": "/alokkumar/static/media/profile.7d3dd41404d9c4086789.jpg",
+    "static/media/work2.jpg": "/alokkumar/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/work4.jpg": "/alokkumar/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/alokkumar/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/alokkumar/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/alokkumar/static/media/work3.135e9065694bc13dc31d.jpg",
+    "static/media/John-Cv.pdf": "/alokkumar/static/media/John-Cv.e83747cf513e0b21a7f1.pdf",
+    "static/media/logo.svg": "/alokkumar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/alokkumar/index.html",
+    "main.11b2a97c.css.map": "/alokkumar/static/css/main.11b2a97c.css.map",
+    "main.2162217e.js.map": "/alokkumar/static/js/main.2162217e.js.map",
+    "787.1ed0c42c.chunk.js.map": "/alokkumar/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11b2a97c.css",
+    "static/js/main.2162217e.js"
+  ]
+}
